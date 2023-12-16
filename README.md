@@ -21,3 +21,9 @@ Powered by a heavily modified version of Kade Engine, This includes lots of addi
 - [Strawberry Input](https://github.com/benjaminpants/Funkin-Strawberry)
 
 If you're looking to compile the mod/make your own modification, [look here](Modding.md).
+
+
+## emmm.....
+so thank the Devs of MoldyGH and the Dave Bambi Team
+The Erizur Did Bambi Art and Engine
+I headache
